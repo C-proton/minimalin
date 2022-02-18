@@ -18,7 +18,7 @@ Go and grab it [here](https://apps.getpebble.com/en_US/application/56f93a5361a01
 
 [![Preview](design/minimalin_preview.png)](https://apps.getpebble.com/en_US/application/56f93a5361a01637e5000036)
 
-## License
+## License. Random Comment 3
 
 [MIT](LICENSE.md) for the code.
 [OFL](design/font/LICENSE.md) for the Nupe font.
